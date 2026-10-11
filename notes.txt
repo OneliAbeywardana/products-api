@@ -1,0 +1,1 @@
+Activity 3: I would notice because the JSON response is missing certain fields from my class even though the request returns 200 OK, showing that Jackson skipped fields without getters
